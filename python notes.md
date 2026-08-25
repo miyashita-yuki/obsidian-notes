@@ -13,4 +13,6 @@ date: 2026-08-25
 1. 变量：程序中用来存储单个数据的容器，通常会把经常变化的数据存储在变量中![](assets/python%20notes/file-20260825154421053.png)
 2. 变量的定义：
    ![](assets/python%20notes/file-20260825154707283.png)
-3. 
+3. 练习
+   ![](assets/python%20notes/file-20260825155316306.png)
+4. 案例
