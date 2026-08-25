@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "第一篇笔记",
-      "path": "assets/python notes/第一篇笔记.md"
+      "basename": "python notes",
+      "path": "assets/python notes/python notes.md"
+    },
+    {
+      "basename": "file-20260825152459571",
+      "path": "assets/python notes/assets/python notes/file-20260825152459571.png"
+    },
+    {
+      "basename": "file-20260825152208082",
+      "path": "assets/python notes/assets/python notes/file-20260825152208082.png"
     },
     {
       "basename": "Java notes",
@@ -13,12 +21,12 @@
       "path": "assets/Java notes/file-20260725122902087.png"
     },
     {
-      "basename": "file-20260725122631269",
-      "path": "assets/Java notes/file-20260725122631269.png"
-    },
-    {
       "basename": "file-20260725111952348",
       "path": "assets/Java notes/file-20260725111952348.png"
+    },
+    {
+      "basename": "file-20260725122631269",
+      "path": "assets/Java notes/file-20260725122631269.png"
     }
   ],
   "omittedPaths": [],
