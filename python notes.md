@@ -16,3 +16,5 @@ date: 2026-08-25
 3. 练习
    ![](assets/python%20notes/file-20260825155316306.png)
 4. 案例
+   ![](assets/python%20notes/file-20260825160956723.png)
+   ![](assets/python%20notes/file-20260825161042501.png)
